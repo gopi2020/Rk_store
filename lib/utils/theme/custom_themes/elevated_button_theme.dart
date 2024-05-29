@@ -15,7 +15,7 @@ class TElevatedButtonTheme {
             fontSize: 16, color: Colors.white, fontWeight: FontWeight.w600),
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12))),
   );
-  static final dartElevatedButtonTheme = ElevatedButtonThemeData(
+  static final darkElevatedButtonTheme = ElevatedButtonThemeData(
     style: ElevatedButton.styleFrom(
         elevation: 0,
         foregroundColor: Colors.white,

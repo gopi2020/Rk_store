@@ -9,7 +9,7 @@ class TBottomSheetTheme {
     constraints: const BoxConstraints(minWidth: double.infinity),
     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
   );
-  static BottomSheetThemeData dartBottonSheetTheme = BottomSheetThemeData(
+  static BottomSheetThemeData darkBottonSheetTheme = BottomSheetThemeData(
     showDragHandle: true,
     backgroundColor: Colors.black,
     modalBackgroundColor: Colors.black,

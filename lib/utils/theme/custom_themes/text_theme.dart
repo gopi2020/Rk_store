@@ -31,7 +31,7 @@ class TTextTheme {
         fontWeight: FontWeight.normal,
         color: Colors.black.withOpacity(0.5)),
   );
-  static TextTheme dartTextTheme = TextTheme(
+  static TextTheme darkTextTheme = TextTheme(
     headlineLarge: const TextStyle().copyWith(
         fontSize: 32.0, fontWeight: FontWeight.bold, color: Colors.white),
     headlineMedium: const TextStyle().copyWith(

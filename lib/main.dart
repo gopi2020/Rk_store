@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       themeMode: ThemeMode.system,
       theme: TAPTheme.lightTheme,
-      darkTheme: TAPTheme.dartTheme,
+      darkTheme: TAPTheme.darkTheme,
       home: const HomePage(),
     );
   }
